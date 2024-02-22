@@ -1,2 +1,0 @@
-Gx3JFUUe9pX9gVZw
-link conexao: mongodb+srv://aquinomm:<password>@cluster0.5gr5lfp.mongodb.net/?retryWrites=true&w=majority
